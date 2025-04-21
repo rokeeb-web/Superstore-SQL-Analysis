@@ -28,4 +28,21 @@ Analysis Overview
   - Profit contribution
 
 6. Returns Analysis
-- Integrated
+- Integrated returns table to find return rates by product sub-category.
+- Sub-categories with high return rates were flagged for further investigation.
+
+Tools Used
+- SQL Server / T-SQL
+- Microsoft Excel or Power BI for visualization (optional)
+- Git and GitHub for version control
+
+Files
+- superstore_analysis.sql — All SQL queries used in this project
+
+Author
+Jimoh Rokeeb  
+jrokeeb5@gmail.com  
++2347041664413  
+Automation and Data Analytics Expert
+
+Feel free to fork or star the repo if you find it helpful.
